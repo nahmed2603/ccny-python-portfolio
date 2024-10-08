@@ -40,7 +40,7 @@ if choice1 == "subway":
         if action2 == "local":
             print("The local train is slow, but at least you’re moving.")
             print("You arrive at Henriettas, but the line is long.")
-            print("You get to line and have to wait. Should have gone to the Bush instead!")
+            print("You get to line and have to wait. Should have gone to the Bush instead!Now you live a miserable life")
         elif action2 == "express":
             print("The express train flies through the stations. You make it to your stop in record time!")
             print("You get there super fast. Both N and J are happy!")
