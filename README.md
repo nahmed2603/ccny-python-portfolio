@@ -1,8 +1,8 @@
-Course Project Overview
+# Course Project Overview
 
-This repository contains coding projects and activities developed as part of CSC 10800: Intro to Data Science at City College. The goal of these projects is to apply fundamental programming skills in Python to solve problems and create engaging coding experiences. These activities serve as practical exercises to build confidence in using Python for data science and other applications.
+This repository contains coding projects and activities developed as part of [CSC 10800: Intro to Data Science at City College](zmuhls.github.io/ccny-data-science). The goal of these projects is to apply fundamental programming skills in Python to solve problems and create engaging coding experiences. These activities serve as practical exercises to build confidence in using Python for data science and other applications.
 
-Purpose
+## Purpose
 
 The projects in this repository are designed to:
 
