@@ -1,3 +1,9 @@
+# Attribution: This code was adapted from Professor Mulh's GitHub repository:
+# https://github.com/zmuhls
+# The original code was modified to include personal elements and expand upon the text-based game concept.
+# Thank you, Professor Mulh, for the initial framework and guidance.
+
+
 print("Welcome to 'The Queers: N and J's Journey to Henriettas'")
 print("You are N, on your way to have fun at Henriettas.")
 print("You find yourself at a crowded subway station. The sign reads: 'Delays on the A/C/E line.'")
