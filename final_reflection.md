@@ -1,13 +1,13 @@
-Introduction
+
 At the start of this semester, I was determined to learn coding, knowing it was a crucial step toward my career aspirations in the FinTech space. However, my initial enthusiasm was soon tempered by a lack of hands-on experience and a growing sense of doubt. By the second week of Professor Mulh’s class, I was overwhelmed, staring at the blank canvas of my screen with Terminal open and struggling to grasp concepts like strings and loops in Python. I felt like I was far behind where I needed to be. Yet, this semester turned out to be a transformative experience, not only in building my technical skills but also in restoring my confidence in my ability to learn and grow.
-Struggles and Turning Points
+
 Week two was especially challenging. I asked Professor Mulh questions every ten minutes, feeling lost and unsure if I would ever catch up. Despite my confusion, I was determined to improve. I spent hours watching tutorials and reading articles, trying to make sense of the material. My perseverance paid off during week three.
 The turning point came when we engaged in Activity 3, a text-based game. For the first time, coding felt like an opportunity to express creativity. I not only understood the game’s logic but also created my own game. To my surprise, Professor Mulh praised my work and even considered using it as an example for the class. This moment was a game-changer—it boosted my confidence and made me believe I could succeed in coding. From that point onward, concepts like lists, loops, and integers began to make sense, and I found myself enjoying the process.
-Broader Insights
+
 This experience taught me that perseverance and creativity are as important as technical skills in data science. Learning to code is not just about mastering syntax; it is about problem-solving and thinking critically. For instance, understanding loops and lists has given me tools to break down complex problems into manageable steps—an essential skill in any discipline.
 In a broader context, this journey reflects the importance of seeking help and leveraging resources. Whether it was asking questions in class or watching online tutorials, I realized the value of collaboration and resourcefulness. These lessons extend beyond coding—they apply to challenges in life, academics, and my future career.
-Applications Beyond the Classroom
+
 The skills I developed this semester are directly relevant to my professional goals. Coding is a foundational skill in FinTech, where data-driven decision-making is key. By learning Python, I have taken the first step toward analyzing financial data and developing algorithms that could one day be part of innovative solutions in the industry. Moreover, the creativity I discovered through coding has inspired me to think about how technology can be used to solve real-world problems.
 On a personal level, this class has given me the confidence to tackle new challenges. Before this semester, I doubted my ability to learn technical skills. Now, I see coding as an exciting tool that integrates my career aspirations to my creativity and serves as an outlet of expression for me.
-Conclusion
+
 This semester was a pivotal moment in my academic journey. What started as a daunting anxiety inducing challenge evolved into one of the most rewarding experiences of my college career. I leave this course with a stronger foundation in Python, a renewed confidence in my abilities, and a deeper appreciation for the power of perseverance. As I continue to pursue a career in FinTech, I am excited to build on these skills and explore the many ways coding can help shape the future.
