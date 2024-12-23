@@ -12,3 +12,4 @@ Develop a foundation for further work in data science, including data analysis a
 Educational Use
 
 This repository is part of my social coding portfolio and is open for educational purposes. Students and learners are encouraged to explore the code, build upon it, and adapt it for their own learning experiences. The contents are intended to foster collaboration and support the learning community in understanding Python and its applications.
+https://conifer.rhizome.org/nahmed/diversity-without-acceptance--the-struggle-of-lgbtq-and-marginalized-communities-in-southeast-asia
